@@ -14,7 +14,9 @@ function divide(a,b){
     return a/b;
 }
 
-
+function square(a,b){
+    return "square of a:" + (a*a) + ",square of b:" + (b*b);
+}
 
 
 
